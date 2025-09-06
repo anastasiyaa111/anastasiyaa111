@@ -22,7 +22,7 @@
 ###  Pet-проекты
 - [MovieLens Analytics](https://github.com/anastasiyaa111/movielens-analytics) – проект по сбору и анализу данных о фильмах с IMDB: скрейпинг данных, выявление трендов и закономерностей.
 -  [hh.ru Job Parser](https://github.com/anastasiyaa111/hh-parser) – проект по сбору и анализу вакансий с hh.ru: парсинг данных о компаниях и позициях и анализ требований работодателей с визуализацией и выводами.
-- [Real Estate Price Model](https://github.com/anastasiyaa111/real-estate-model) – ML-модель для предсказания цен апартаментов по ключевым характеристикам. 
+- [Price Estomator Model](https://github.com/anastasiyaa111/PriceEstimator) – ML-модель для предсказания цен апартаментов по ключевым характеристикам. 
 
 
 
